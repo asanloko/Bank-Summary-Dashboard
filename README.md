@@ -32,7 +32,7 @@ To get started with the Bank Summary Dashboard, follow these steps:
 1. Clone or download this repository to your local machine.
 2. Install Power BI Desktop if you haven't already. The dashboard was developed using Power BI Desktop version 2.11.
 3. Open Power BI Desktop and navigate to the folder where you cloned/downloaded the repository.
-4. Open the Power BI project file (`BankSummaryDashboard.pbix`).
+4. Open the Power BI project file (`Bank Summary Dashboard.pbix`).
 
 ## Data Sources
 The dashboard uses the following data sources:
@@ -48,9 +48,9 @@ The data model in the dashboard includes various tables and relationships to sup
 ## Dashboard Visuals
 The dashboard consists of several visualizations that provide an intuitive and interactive way to explore the bank's financial performance. Some of the key visuals include:
 
-- Total Assets and Liabilities Over Time
-- Revenue and Expense Breakdown
-- Return on Assets (ROA) and Return on Equity (ROE)
+- Total Depsit,Total Loan and Total Float
+- Total Deposit and Location
+- Total Customer by Location
 - Banking Segment Analysis
 
 ## Requirements
@@ -62,12 +62,12 @@ To use the Bank Summary Dashboard, you need the following:
 1. Clone or download this repository to your local machine.
 2. Install Power BI Desktop if you haven't already.
 3. Open Power BI Desktop and navigate to the folder where you cloned/downloaded the repository.
-4. Open the Power BI project file (`BankSummaryDashboard.pbix`).
+4. Open the Power BI project file (`Bank Summary Dashboard.pbix`).
 
 ## Usage
 To use the Bank Summary Dashboard:
 
-1. Open the Power BI project file (`BankSummaryDashboard.pbix`).
+1. Open the Power BI project file (`Bank Summary Dashboard.pbix`).
 2. Ensure that the necessary data source connections are valid.
 3. Refresh the data if needed.
 4. Interact with the visualizations to explore the bank's financial data.
