@@ -1,6 +1,8 @@
 # Bank Summary Dashboard
 
-This repository contains a Power BI dashboard for analyzing and visualizing bank summary data. The dashboard is designed to provide insights and key performance indicators (KPIs) related to the bank's financial performance.
+This repository contains a Power BI dashboard for analyzing and visualizing bank summary data. The dashboard is designed to provide insights and key performance indicators (KPIs) related to the bank's financial performance. 
+
+See the video here: https://youtu.be/59Y7s37bfwQ
 
 ## Table of Contents
 - [Introduction](#introduction)
